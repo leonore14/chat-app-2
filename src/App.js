@@ -10,17 +10,17 @@ function App() {
        < Contact 
         name="Ian Ryan" 
         avatar="https://randomuser.me/api/portraits/men/83.jpg"
-        online="true"
+        online
        />
        < Contact 
         name="Marjorie Little" 
         avatar="https://randomuser.me/api/portraits/women/50.jpg"
-        online="false"
+        
        />
        < Contact 
         name="Cathy Lucas" 
         avatar="https://randomuser.me/api/portraits/women/8.jpg"
-        online="true"
+        online
        />
     </div>
     </>
